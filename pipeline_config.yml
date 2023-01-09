@@ -1,0 +1,11 @@
+nodes:
+- input.visual:
+    source: 1
+- model.movenet:
+    model_type: singlepose_lightning
+- dabble.fps
+- custom_nodes.dabble.high_knee
+- draw.poses
+- draw.legend:
+    show: ["fps"]
+- output.screen
