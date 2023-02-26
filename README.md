@@ -1,7 +1,7 @@
 # exercise_tool
 
-help people exercise with peekingduck
+Help users exercise with peekingduck
 
 
-![](demo.mp4)
+![Demo video](https://github.com/leezhongjun/exercise_tool/blob/master/demo.mp4?raw=true)
 
