@@ -1,6 +1,9 @@
-# exercise_tool
+# ExerciseHelper
 
 Help users exercise with peekingduck
 
 
-<iframe src='//gifs.com/embed/w0qE0g' frameborder='0' scrolling='no' width='1164px' height='790px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+
+
+![demo](https://user-images.githubusercontent.com/80515759/221416407-3c290aa6-3299-44a1-b29a-998abecf0429.gif)
+
