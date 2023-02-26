@@ -3,5 +3,4 @@
 Help users exercise with peekingduck
 
 
-![demo](https://j.gifs.com/r2lE2B.gif)
-
+<iframe src='//gifs.com/embed/w0qE0g' frameborder='0' scrolling='no' width='1164px' height='790px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
