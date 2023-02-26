@@ -3,5 +3,5 @@
 Help users exercise with peekingduck
 
 
-[![Demo video](https://github.com/leezhongjun/exercise_tool/blob/master/demo.mp4?raw=true)]
+[![Demo video](https://gifs.com/gif/demo-r2lE2B)](https://gifs.com/gif/demo-r2lE2B)
 
