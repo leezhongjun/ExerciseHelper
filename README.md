@@ -1,6 +1,6 @@
 # ExerciseHelper
 
-Help users exercise with peekingduck
+Help users exercise with [PeekingDuck](https://github.com/aisingapore/PeekingDuck)
 
 
 
